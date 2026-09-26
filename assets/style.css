@@ -87,3 +87,12 @@ body {
 .btn:hover {
     background-color: #4338ca;
 }
+
+.footer {
+    background-color: #16161e;
+    border-top: 1px solid #2a2a36;
+    padding: 1.5rem 2rem;
+    text-align: center;
+    color: #a0a0b0;
+    font-size: 0.9rem;
+}
