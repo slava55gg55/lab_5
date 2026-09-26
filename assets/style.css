@@ -8,3 +8,30 @@
     margin: 0;
     box-sizing: inherit;
 }
+
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background-color: #0d0d11;
+    color: #fff;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #16161e;
+    border-bottom: 1px solid #2a2a36;
+}
+
+.logo {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-size: 1.2rem;
+    color: #4f46e5;
+    text-transform: uppercase;
+}
+
+.nav {
+    display: flex;
+    gap: 1.5rem;
+}
